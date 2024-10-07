@@ -19,3 +19,5 @@ let primeChecker = function (arr) {
     }
     return console.log(prime);
 };  
+
+primeChecker(numbers)

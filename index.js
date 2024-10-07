@@ -16,3 +16,6 @@ let evenOddchecker = function (arr) {
     return console.log(`Even : ${even} , Odd : ${odd}`)
     }
     
+
+
+evenOddchecker(numbers)
